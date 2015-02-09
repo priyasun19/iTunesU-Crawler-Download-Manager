@@ -1,0 +1,22 @@
+Database-test
+ 
+create table MAIN_TABLE(univurl varchar(250));
+
+create table WAITING_TABLE(tempurl varchar(250) unique,flag varchar(10) default 'false'); 
+
+create table CRAWLED_TABLE(url varchar(250) unique);
+
+CREATE TABLE `tracks` (
+  `atrist` varchar(100) DEFAULT NULL,
+  `genre` varchar(120) DEFAULT NULL,
+  `descr` varchar(1000) DEFAULT NULL,
+  `plist` varchar(250) DEFAULT NULL,
+  `purl` varchar(200) DEFAULT NULL,
+  `loc` varchar(90) DEFAULT NULL,
+  `songname` varchar(500) DEFAULT NULL,
+  `type` varchar(10) DEFAULT NULL,
+  `univname` varchar(100) DEFAULT NULL,
+  `releasedate` varchar(100) DEFAULT NULL,
+  `duration` varchar(50) DEFAULT NULL,
+  UNIQUE KEY `purl` (`purl`)
+);

@@ -1,0 +1,34 @@
+/**
+*Crawler Algorithm
+*/
+Tables used:
+	
+	MAIN_TABLE - Contains main URL of Universities to be crawled
+	WAITING_TABLE - Contains list of sites in an University to be crawled
+	CRAWLED_TABLE - Contains list of sites in an University which have already been crawled
+	TRACKS - contains the list of saved tracks from the crawled university
+
+Algorithm:
+
+crawler
+{
+	loop:
+		Remove first URL from MAIN_TABLE
+		do parsing
+		loop:
+			Remove first URL from WAITING_TABLE
+			do parsing
+			Place URL in CRAWLED_TABLE
+		Put the main URL in CRAWLED_TABLE
+}
+
+parsing
+{
+	Get the XML document of URL and save the file
+	Check if it contains TrackList
+	if(present)
+	{
+			save all tracks with their details in the TRACKS table
+	}
+	Retrieve URLs in file and place it WAITING_TABLE
+}

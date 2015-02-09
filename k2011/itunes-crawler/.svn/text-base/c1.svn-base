@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns="http://www.apple.com/itms/" disableNavigation="true" disableHistory="true">
+<iTunes>Art, Design, Visual Communication &amp; Photography</iTunes>
+  <Protocol>
+    <plist version="1.0">
+      <dict>
+        <key>ping</key><string>http://metrics.apple.com/b/ss/applesuperglobal/1/G.6--NS?pageName=com.apple.indigo.itunes.DownloadXMLMessage-abcol.ac.uk-Art%2C+Design%2C+Visual+Communication+%26+Photograp&amp;pccr=true&amp;ch=iTunesU&amp;h5=appleuswwwitms%2Cappleitmsna%2Cappleitmsus</string>
+        <key>collection</key>
+        <array>
+          
+            <dict>
+              
+              <key>URL</key><string>http://www.abcol.ac.uk/resources/pod/m4b/cisl/ci-lo1.m4a</string>
+              <key>artworkURL</key><string>http://deimos3.apple.com/indigo//5b/60/2c/97/5b602c97bfe16c04433578c2644ab319c877b7dc0b5eb43e39f3d965cab98281-3224280389.jpg</string>
+              
+              
+              
+              <key>metadata</key>
+              <dict>
+                <key>kind</key><string>itunesu</string>
+                <key>songName</key><string>Creative Industries Learning Outcome 1 - Innes Taylor</string>
+                <key>fileExtension</key><string>m4a</string>
+                <key>duration</key><integer>0</integer>
+                <key>trackNumber</key><integer>1</integer>
+                <key>discNumber</key><integer>1</integer>
+                <key>playlistName</key> <string>Aberdeen College Visual Communication Podcast</string>
+                
+                
+                
+                  <key>description</key><string>A short presentation on Outcome 1 for Creative Industries</string>
+                  
+                      <key>releaseDate</key><string>2009-09-29T09:25:17Z</string>
+                      <key>composerName</key><string>Aberdeen College</string>
+                      <key>category</key><string>Education</string>
+                      
+                      <key>collectionCategory</key><string></string>
+                      <key>collectionTitle</key><string>Aberdeen College Visual Communication Podcast</string>
+                  
+              </dict>
+              
+            </dict>
+          
+            <dict>
+              
+              <key>URL</key><string>http://www.abcol.ac.uk/resources/pod/m4b/cisl/ci-lo2.m4a</string>
+              <key>artworkURL</key><string>http://deimos3.apple.com/indigo//5b/60/2c/97/5b602c97bfe16c04433578c2644ab319c877b7dc0b5eb43e39f3d965cab98281-3224280389.jpg</string>
+              
+              
+              
+              <key>metadata</key>
+              <dict>
+                <key>kind</key><string>itunesu</string>
+                <key>songName</key><string>Creative Industries Learning Outcome 2 - Innes Taylor</string>
+                <key>fileExtension</key><string>m4a</string>
+                <key>duration</key><integer>0</integer>
+                <key>trackNumber</key><integer>2</integer>
+                <key>discNumber</key><integer>1</integer>
+                <key>playlistName</key> <string>Aberdeen College Visual Communication Podcast</string>
+                
+                
+                
+                  <key>description</key><string>A short presentation on Outcome 2 for Creative Industries</string>
+                  
+                      <key>releaseDate</key><string>2009-09-29T09:25:17Z</string>
+                      <key>composerName</key><string>Aberdeen College</string>
+                      <key>category</key><string>Education</string>
+                      
+                      <key>collectionCategory</key><string></string>
+                      <key>collectionTitle</key><string>Aberdeen College Visual Communication Podcast</string>
+                  
+              </dict>
+              
+            </dict>
+          
+            <dict>
+              
+              <key>URL</key><string>http://www.abcol.ac.uk/resources/pod/m4b/cisl/ci-lo3.m4a</string>
+              <key>artworkURL</key><string>http://deimos3.apple.com/indigo//5b/60/2c/97/5b602c97bfe16c04433578c2644ab319c877b7dc0b5eb43e39f3d965cab98281-3224280389.jpg</string>
+              
+              
+              
+              <key>metadata</key>
+              <dict>
+                <key>kind</key><string>itunesu</string>
+                <key>songName</key><string>Creative Industries Learning Outcome 3 - Innes Taylor</string>
+                <key>fileExtension</key><string>m4a</string>
+                <key>duration</key><integer>0</integer>
+                <key>trackNumber</key>

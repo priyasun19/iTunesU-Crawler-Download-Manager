@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/k2011/!svn/ver/29/itunes-crawler/src/crawler
+END
+DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/k2011/!svn/ver/28/itunes-crawler/src/crawler/DAO.java
+END
+parsing.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/k2011/!svn/ver/24/itunes-crawler/src/crawler/parsing.java
+END
+saveTracks.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/k2011/!svn/ver/29/itunes-crawler/src/crawler/saveTracks.java
+END
+DAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/k2011/!svn/ver/23/itunes-crawler/src/crawler/DAO.class
+END
+parsing.class
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/k2011/!svn/ver/23/itunes-crawler/src/crawler/parsing.class
+END
+crawl.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/k2011/!svn/ver/24/itunes-crawler/src/crawler/crawl.java
+END
+saveTracks.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/k2011/!svn/ver/23/itunes-crawler/src/crawler/saveTracks.class
+END
+crawl.class
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/k2011/!svn/ver/23/itunes-crawler/src/crawler/crawl.class
+END

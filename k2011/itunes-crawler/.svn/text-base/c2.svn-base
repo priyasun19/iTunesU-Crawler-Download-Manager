@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns="http://www.apple.com/itms/">
+<iTunes>Music</iTunes>
+  <Protocol>
+    <plist version="1.0">
+      <dict>
+        <key>ping</key><string>http://metrics.apple.com/b/ss/applesuperglobal/1/G.6--NS?pageName=Content+Page-abcol.ac.uk-Music-2167574860.2233824245.2233824246.2299445540&amp;pccr=true&amp;ch=iTunesU&amp;h5=appleuswwwitms%2Cappleitmsna%2Cappleitmsus</string>
+            <Include url="http://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/navbarFragment"></Include>
+            
+<key>navbar-selected-menu</key>
+<string>iTunes U</string>
+      </dict>
+    </plist>
+  </Protocol>
+
+    <Path>
+    
+        <PathElement inhibitDragging="false" displayName="iTunes U">http://deimos3.apple.com/indigo/main/main.xml</PathElement>
+    
+    
+    
+    </Path>
+
+
+
+<VBoxView viewName="Form" rightInset="0" bottomInset="0" leftInset="0" topInset="0" stretchiness="1" backColor="ffffff">
+    
+    
+  <FontStyle size="11" altFont="Arial" altFontSize="9" styleName="default" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle size="9" altFont="Arial" altFontSize="7" styleName="lucida9" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle size="10" altFont="Arial" altFontSize="8" styleName="lucida10" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle size="10" altFont="Arial" altFontSize="8" styleName="lucida10Bold" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="2" size="11" altFont="Arial" altFontSize="8" styleName="lucida11" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="2" size="11" altFont="Arial" altFontSize="8" styleName="lucida11Bold" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="1" size="12" altFont="Arial" altFontSize="9" styleName="lucida12" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="2" size="13" altFont="Arial" altFontSize="10" styleName="lucida13" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="2" size="13" altFont="Arial" altFontSize="10" styleName="lucida13Bold" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="2" size="14" altFont="Arial" altFontSize="11" styleName="lucida14" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="2" size="14" altFont="Arial" altFontSize="11" styleName="lucida14Bold" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="2" size="15" altFont="Arial" altFontSize="12" styleName="lucida15" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="3" size="16" altFont="Arial" altFontSize="13" styleName="lucida16" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="3" size="16" altFont="Arial" altFontSize="13" styleName="lucida16Bold" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="3" size="17" altFont="Arial" altFontSize="14" styleName="lucida17Bold" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="4" size="18" altFont="Arial" altFontSize="15" styleName="lucida18" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="4" size="18" altFont="Arial" altFontSize="15" styleName="lucida18Bold" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="5" size="22" altFont="Arial" altFontSize="19" styleName="lucida22" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="10" size="40" altFont="Arial" altFontSize="34" styleName="lucida40" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="10" size="40" altFont="Arial" altFontSize="34" styleName="lucida40Bold" face="bold" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle size="9" altFont="Arial" altFontSize="7" styleName="geneva9" font="Geneva,Verdana" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="-1" size="10" altFont="Arial" altFontSize="8" styleName="helvetica10" font="Helvetica,Geneva" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="-1" size="11" altFont="Arial" altFontSize="8" ascent="11" styleName="helvetica11" line-height="13" font="Helvetica,Geneva" color="000000"></FontStyle>
+  <FontStyle line-height="17" size="14" altFont="Arial" altFontSize="11" ascent="14" styleName="helvetica14Bold" face="bold" altExtraAscent="3" font="Helvetica,Geneva" color="000000"></FontStyle>
+  <FontStyle line-height="17" size="14" altFont="Arial" altFontSize="11" ascent="14" styleName="helvetica14" altExtraAscent="3" font="Helvetica,Geneva" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="1" size="16" altFont="Arial" altFontSize="13" ascent="16" styleName="helvetica16" face="bold" line-height="18" font="Helvetica,Geneva" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="5" size="20" altFont="Arial" altFontSize="19" ascent="22" styleName="helvetica20" line-height="25" font="Helvetica,Geneva" color="000000"></FontStyle>
+  <FontStyle altExtraAscent="4" size="22" altFont="Arial" altFontSize="17" ascent="20" styleName="helvetica22" line-height="23" font="Helvetica,Geneva" color="000000"></FontStyle>
+  <FontStyle size="11" altFont="Arial" altFontSize="8" styleName="ButtonJs" font="Lucida Grande" color="000000"></FontStyle>
+  <FontStyle size="13" altFont="Arial" altFontSize="10" styleName="ButtonJ" font="Lucida Grande" color="000000"></FontStyle>
+
+  <FontStyle size="9" color="000000" altFont="Arial" altFontSize="7" styleName="lucida9text" font="Lucida Grande"></FontStyle>
+  <FontStyle size="10" color="000000" altFont="Arial" altFontSize="8" styleName="lucida10text" font="Lucida Grande"></FontStyle>
+  <FontStyle altExtraAscent="2" size="11" color="000000" altFont="Arial" altFontSize="8" styleName="lucida11text" font="Lucida Grande"></FontStyle>
+  <FontStyle altExtraAscent="1" size="12" color="000000" altFont="Arial" altFontSize="9" styleName="lucida12text" font="Lucida Grande"></FontStyle>
+  <FontStyle altExtraAscent="2" size="13" color="000000" altFont="Arial" altFontSize="10" styleName="lucida13text" font="Lucida Grande"></FontStyle>
+
+  <FontStyle styleName="splashText" font="Lucida Grande" size="13" altFont="Arial" altFontSize="10" color="000000"></FontStyle>  
+  <FontStyle styleName="courier12black" font="Courier" size="12" altFont="Arial" altFontSize="7"  color="000000"></FontStyle>
+  <FontStyle styleName="lucida9black" font="Lucida Grande" size="9" altFont="Arial" altFontSize="7"  color="000000"></FontStyle>
+  <FontStyle styleName="lucida10black" font="Lucida Grande" size="10" altFont="Arial" altFontSize="7"  color="000000"></FontStyle>
+  <FontStyle styleName="lucida10BoldWhite" font="Lucida Grande" size="10" altFont="Arial" altFontSize="8" face="bold" color="ffffff" />
+  <FontStyle styleName="lucida13Red" font="Lucida Grande" size="13" altFont="Arial" altFontSize="10" altExtraAscent="2" color="ff0000" />
+  <FontStyle styleName="link" />
+  <FontStyle styleName="linkRollover" face="underline" />
+  <FontStyle styleName="linkRolloverBlue" face="underline" color="0000ff" />
+  <FontStyle styleName="linkRolloverBold" face="underline,bold" />
+  <FontStyle styleName="linkPressed" face="underline" />
+  <FontStyle styleName="linkPressedBold" face="underline,bold" />
+  <FontStyle styleName="htmlLink" color="0a67d6" />
+  <FontStyle styleName="htmlLinkPressed" color="ff3333" />
+  <FontStyle styleName="htmlLinkRollover" color="8b0000" />
+  <FontStyle styleName="bold" face="bold" />
+  <FontStyle styleName="black" color="000000" />
+  <FontStyle styleName="white" color="ffffff" />
+  <FontStyle styleName="gray" color="8d8d8d" />
+  <FontStyle styleName="darkgray" color="606060" />
+  <FontStyle styleName="red" color="ff0000" />
+  <FontStyle styleName="goldenYellow" color="b99c36" />
+  <FontStyleSet setName="normal10" normalStyle="lucida10" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal10Bold" normalStyle="lucida10Bold" linkStyle="link" linkPressedStyle="linkPressedBold" linkRolloverStyle="linkRolloverBold" />
+  <FontStyleSet setName="normal11" normalStyle="lucida11" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal11Bold" normalStyle="lucida11Bold" linkStyle="link" linkPressedStyle="linkPressedBold" linkRolloverStyle="linkRolloverBold" />
+  <FontStyleSet setName="normal11htmlLinks" normalStyle="lucida11" linkStyle="htmlLink" linkPressedStyle="htmlLinkPressed" linkRolloverStyle="htmlLinkRollover" />
+  <FontStyleSet setName="normal12" normalStyle="lucida12" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal13" normalStyle="lucida13" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal14" normalStyle="lucida14" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal14Bold" normalStyle="lucida14Bold" linkStyle="link" linkPressedStyle="linkPressedBold" linkRolloverStyle="linkRolloverBold" />
+  <FontStyleSet setName="normal15" normalStyle="lucida15" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal16" normalStyle="lucida16" linkStyle="link" linkPressedStyle="linkPressedBold" linkRolloverStyle="linkRolloverBold" />
+  <FontStyleSet setName="normal16Bold" normalStyle="lucida16Bold" linkStyle="link" linkPressedStyle="linkPressedBold" linkRolloverStyle="linkRolloverBold" />
+  <FontStyleSet setName="normal18" normalStyle="lucida18" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal22" normalStyle="lucida22" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="basic9" normalStyle="geneva9" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="basic10" normalStyle="helvetica10" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="basic11" normalStyle="helvetica11" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="basic14Bold" normalStyle="helvetica14Bold" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="basic14" normalStyle="helvetica14" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="basic16" normalStyle="helvetica16" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="basic20" normalStyle="helvetica20" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="basic22" normalStyle="helvetica22" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal40" normalStyle="lucida40" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+  <FontStyleSet setName="normal40Bold" normalStyle="lucida40Bold" linkStyle="link" linkPressedStyle="linkPressed" linkRolloverStyle="linkRollover" />
+
+
+    
+    
+    <View rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1">
+
+        <ScrollView rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1" horzScroll="as needed" vertScroll="as needed">
+            <MatrixView topInset="0" bottomInset="30" leftInset="25" rightInset="25" columnFormat="65%,25,35%" minWidth="700" rowFormat="100%">
+                <VBoxView topInset="10" leftInset="0" rightInset="0">
+                     
+                    
+    <HBoxView topInset="6" leftInset="-6" >
+        
+            
+                <TextView truncation="right" styleSet="basic14" topInset="0" leftInset="6" maxLines="1" textJust="right" >
+                <GotoURL url="http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk"> 
+                Aberdeen College
+                </GotoURL>
+                </TextView>
+                
+                <TextView truncation="right" styleSet="basic14" topInset="0" leftInset="6"  maxLines="1" textJust="right" alt=""> 
+                    &gt; 
+                </TextView>
+                
+            
+        
+            
+                <TextView truncation="right" styleSet="basic14" topInset="0" leftInset="6" maxLines="1" textJust="right" >
+                <GotoURL url="http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2233824245"> 
+                Student Showcase
+                </GotoURL>
+                </TextView>
+                
+                <TextView truncation="right" styleSet="basic14" topInset="0" leftInset="6"  maxLines="1" textJust="right" alt=""> 
+                    &gt; 
+                </TextView>
+                
+            
+        
+            
+                <TextView truncation="right" styleSet="basic14" topInset="0" leftInset="6" maxLines="1" textJust="right" >
+                <GotoURL url="http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545"> 
+                Music - Audio
+                </GotoURL>
+                </TextView>
+                
+            
+        
+    </HBoxView>
+
+
+<GotoURL inhibitDragging="false" draggingName="Music" useNameForDraggingPicture="true" url="http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545">
+
+                         <TextView viewName="deselect" rightInset="0" headingLevel="1" leftInset="0" topInset="12" textJust="left" maxLines="1" truncation="right" styleSet="basic20">
+                             <b>Music</b>
+                         </TextView>
+                     
+</GotoURL>
+                    
+                     
+                     <View shouldBeVisible="true">
+                         <VBoxView>
+                             <HBoxView rightInset="0" topInset="13" bottomInset="0" leftInset="0" >
+                                 <VBoxView topInset="0" leftInset="0" minHeight="220" minWidth="170"></VBoxView>
+                                 
+                                 <VBoxView rightInset="0" leftInset="10" topInset="0" stretchiness="1" minHeight="220">
+                                                                          
+                                     <HBoxView>
+	                                     
+	                                     
+											 <PictureView rightInset="3" bottomInset="2" width="61" height="11" shouldBeVisible="true" alt="Clean" url="http://deimos3.apple.com/rsrc/Images/misc/logo_cl_11_left.png"></PictureView>
+										 
+                                     </HBoxView>
+                                     <VBoxView>
+	                                     <HBoxView>                                     
+	                                         
+	                                         
+	                                             
+	                                             
+	                                         
+	                                     </HBoxView>
+                                     </VBoxView>
+                                     
+                                     <View height="5"></View>
+                                     
+                                     <TextView rightInset="0" topInset="0" truncation="right" styleSet="basic11" leftInset="0" maxLines="1" textJust="left">
+                                         Last Modified: Jan 7, 2011
+                                     </TextView>
+                                     <TextView rightInset="0" topInset="0" truncation="right" styleSet="basic11" leftInset="0" maxLines="1" textJust="left">
+                                         Tracks in Audio: 15
+                                     </TextView>
+                                     
+                                     
+                                     <VBoxView topInset="8">
+                                          
+                                                 
+                                                     
+                                                     
+                                                         <View height="3" />
+                                                         <View>
+                                                                                                                                       
+                                                                 <Test property="disable explicit" comparison="eq" value="true">
+                                                                     
+                                                                     <AnonymousDownload url="https://deimos.apple.com/WebObjects/Core.woa/DownloadTracks/abcol.ac.uk.2299445540.02299445545/pc" itemName="Music">
+                                                                         <PictureButtonView leftInset="0" width="144" height="16" topInset="0" picts="plain,pressed,rollover" alt="Get Tracks" url="http://deimos3.apple.com/rsrc/Images/button/btn_gettracks_16.png"></PictureButtonView>
+                                                                     </AnonymousDownload>
+                                                                     <AnonymousDownload url="https://deimos.apple.com/WebObjects/Core.woa/DownloadTracks/abcol.ac.uk.2299445540.02299445545" itemName="Music">
+                                                                         <PictureButtonView leftInset="0" width="144" height="16" topInset="0" picts="plain,pressed,rollover" alt="Get Tracks" url="http://deimos3.apple.com/rsrc/Images/button/btn_gettracks_16.png"></PictureButtonView>
+                                                                     </AnonymousDownload>
+                                                                 </Test>
+	                                                         
+                                                         </View>
+                                                     
+                                                 
+                                                 <View height="3" />
+                                                 
+                                             
+                                     </VBoxView>
+                                     
+                                 </VBoxView>
+                                 
+                             </HBoxView>
+                             
+                             <VBoxView topInset="0" leftInset="0" rightInset="0" bottomInset="20">
+                                 
+                                 
+                                 
+                                     
+                                     
+                                 
+                             </VBoxView>
+                             
+                         </VBoxView>
+                         <View leftInset="0" topInset="15">
+                             
+                             
+                                     
+      <View alt="">
+          
+          
+            <PictureView proportional="1" verticalAlignment="top" shouldBeVisible="true" shadowHeight="0" pictureBorderOpacity="100" alt="Music" shadowWidth="0" height="170" width="170" reflection="1" url="http://deimos3.apple.com/indigo//24/30/10/19/24301019c2cfefd3ba19b4e5b2e16f8ccd14b93e476e66898792ec2e82f2f228-3223086440.jpg" addShadowSizes="true" pictureBorderWidth="1" pictureBorderColor="2f2f2f"></PictureView>    
+          
+        
+      </View>
+    
+
+                             
+                             
+                         </View>
+                     </View>
+                </VBoxView>
+                <View />
+                
+                <VBoxView topInset="10" bottomInset="10" shouldBeVisible="true">
+                    <View height="38" />
+                    
+                        
+
+    <View>
+        <FontStyle name="outlineTitleFontStyle" color="000000"></FontStyle>
+        <FontStyle name="outlineTextFontStyle" color="000000"></FontStyle>
+        
+<View rightInset="0" bottomInset="0" leftInset="0" topInset="0">
+
+  
+
+    <Test value="7.0.0" comparison="greater or equal" property="iTunes version">
+      
+<View rightInset="0" bottomInset="0" leftInset="0" topInset="0">
+  
+    <PictureButtonView rightInset="0" topInset="0" bottomInset="0" leftInset="0" alt="" color="rgba(0,0,0,0.1)" mask="http://deimos3.apple.com/rsrc/Images/masks/rounded_box.png" cap="4">
+      
+    </PictureButtonView>
+  
+</View>
+
+    </Test>
+
+    <Test value="7.0.0" comparison="less" property="iTunes version">
+
+      
+
+      
+        <VBoxView topInset="0" rightInset="0" bottomInset="0" leftInset="0">
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="3"/>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="3"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="2"/>
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="2"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="1"/>
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="1"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" stretchiness = "1">
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="1"/>
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="1"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="2"/>
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="2"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="3"/>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="3"/>
+          </HBoxView>
+        </VBoxView>
+      
+
+    </Test>
+
+  
+
+  <View rightInset="5" bottomInset="5" leftInset="5" topInset="5">
+    
+  </View>
+  
+</View>
+
+
+        
+        <VBoxView topInset="5" rightInset="5" bottomInset="5" leftInset="5">
+            
+                            
+    
+        
+        
+<VBoxView rightInset="0" bottomInset="0" leftInset="0" topInset="0">
+    
+        <FontStyle name="outlineTitleFontStyle" color="000000"></FontStyle>
+        <FontStyle name="outlineTextFontStyle" color="000000"></FontStyle>
+    
+    
+    <View bottomInset="0" topInset="0" stretchiness="1">
+        
+        
+            <VBoxView>
+            
+
+
+
+
+
+
+
+
+
+    
+    <VBoxView bottomInset="0">
+        
+<View>
+
+  <Test value="7.0.0" comparison="less" property="iTunes version">
+    <View borderWidth="1" borderColor="000000"></View>
+  </Test>
+
+  <Test value="7.0.0" comparison="greater or equal" property="iTunes version">
+    
+<View>
+  
+    <PictureButtonView rightInset="0" topInset="0" bottomInset="0" leftInset="0" alt="" color="rgb(0,0,0)" mask="http://deimos3.apple.com/rsrc/Images/masks/outline_box.png" cap="4">
+      
+    </PictureButtonView>
+  
+</View>
+
+  </Test>
+
+  <View topInset="0" rightInset="0" bottomInset="0" leftInset="0">
+    
+            
+
+    <VBoxView topInset="0" bottomInset="0">
+        <View stretchiness="1"/>
+        <HBoxView topInset="4" rightInset="5" bottomInset="5" leftInset="7">
+            <View stretchiness="1" topInset="0">
+                
+                <TextView headingLevel="2" maxLines="1" leftInset="0" topInset="0" textJust="left" stretchiness="1" truncation="right" styleSet="basic11" rightInset="0">
+                    <SetFontStyle normalStyle="outlineTitleFontStyle">
+                        <b>
+                            
+                                
+    <GotoURL formViewName="Form" method="post" inhibitDragging="false" url="https://deimos.apple.com/WebObjects/Core.woa/TellAFriend/abcol.ac.uk.2299445540">
+
+        
+        
+            
+            
+                                    
+                                        TELL A FRIEND
+                                    
+                                    
+                                
+        
+    
+</GotoURL>
+
+
+                            
+                            
+                        </b>
+                    </SetFontStyle>
+                </TextView>
+            </View>
+            
+                
+                
+                    
+    <GotoURL formViewName="Form" method="post" inhibitDragging="false" draggingName="" url="https://deimos.apple.com/WebObjects/Core.woa/TellAFriend/abcol.ac.uk.2299445540">
+
+        
+            
+                
+                <HBoxView rightInset="0" alt="">
+                    
+                    <VBoxView alt="">
+                        <View height="1" alt=""/>
+                        <View stretchiness="1" alt=""/>
+                        <PictureButtonView rightInset="0" width="12" height="12" topInset="0" picts="plain,pressed,rollover" transparentClicks="yes please" src="http://deimos3.apple.com/rsrc/Images/arrowoutline/arrow_000000_r.png" alt="Tell A Friend"></PictureButtonView>
+                        <View stretchiness="1" alt=""/>
+                    </VBoxView>
+                </HBoxView>
+            
+            
+        
+        
+    
+</GotoURL>
+
+
+                
+            
+        </HBoxView>
+        <View stretchiness="1"/>
+    </VBoxView>
+    
+      <HBoxView rightInset="4">
+        
+        
+      </HBoxView>    
+    
+
+
+
+    
+
+
+        
+  </View>
+
+</View>
+
+    </VBoxView>
+    <View height="2"/>
+
+
+
+
+
+
+
+
+
+    
+
+
+
+        
+
+
+
+            </VBoxView>
+        
+    </View>
+</VBoxView>
+
+
+        
+    
+
+
+                        
+        </VBoxView>
+    </View>
+
+
+
+
+                        <View height="18" />
+                    
+                    
+                        
+
+    <View>
+        <FontStyle name="outlineTitleFontStyle" color="000000"></FontStyle>
+        <FontStyle name="outlineTextFontStyle" color="000000"></FontStyle>
+        
+<View rightInset="0" bottomInset="0" leftInset="0" topInset="0">
+
+  
+
+    <Test value="7.0.0" comparison="greater or equal" property="iTunes version">
+      
+<View rightInset="0" bottomInset="0" leftInset="0" topInset="0">
+  
+    <PictureButtonView rightInset="0" topInset="0" bottomInset="0" leftInset="0" alt="" color="rgba(0,0,0,0.1)" mask="http://deimos3.apple.com/rsrc/Images/masks/rounded_box.png" cap="4">
+      
+    </PictureButtonView>
+  
+</View>
+
+    </Test>
+
+    <Test value="7.0.0" comparison="less" property="iTunes version">
+
+      
+
+      
+        <VBoxView topInset="0" rightInset="0" bottomInset="0" leftInset="0">
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="3"/>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="3"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="2"/>
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="2"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="1"/>
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="1"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" stretchiness = "1">
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="1"/>
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="1"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="2"/>
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            
+            <PictureView leftInset="0" width="1" topInset="0" horizontalBehavior="tile" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="2"/>
+          </HBoxView>
+          <HBoxView leftInset="0" rightInset="0" height="1">
+            <View width="3"/>
+            <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" reflection="0" url="http://deimos3.apple.com/rsrc/Images/bgcolor/bgcolor_000000_10.png" bottomInset="0"></PictureView>
+            <View width="3"/>
+          </HBoxView>
+        </VBoxView>
+      
+
+    </Test>
+
+  
+
+  <View rightInset="5" bottomInset="5" leftInset="5" topInset="5">
+    
+  </View>
+  
+</View>
+
+
+        
+        <VBoxView topInset="5" rightInset="5" bottomInset="5" leftInset="5">
+            
+                            
+                            
+                                
+    
+    <VBoxView>
+        
+            
+<VBoxView rightInset="0" bottomInset="0" leftInset="0" topInset="0">
+    
+        <FontStyle name="outlineTitleFontStyle" color="000000"></FontStyle>
+        <FontStyle name="outlineTextFontStyle" color="000000"></FontStyle>
+    
+    
+        
+
+  
+<View>
+
+  <Test value="7.0.0" comparison="less" property="iTunes version">
+    <View borderWidth="1" borderColor="000000"></View>
+  </Test>
+
+  <Test value="7.0.0" comparison="greater or equal" property="iTunes version">
+    
+<View>
+  
+    <PictureButtonView rightInset="0" topInset="0" bottomInset="0" leftInset="0" alt="" color="rgb(0,0,0)" mask="http://deimos3.apple.com/rsrc/Images/masks/outline_box.png" cap="4">
+      
+    </PictureButtonView>
+  
+</View>
+
+  </Test>
+
+  <View topInset="0" rightInset="0" bottomInset="0" leftInset="0">
+    
+    
+
+    <VBoxView topInset="0" bottomInset="0">
+        <View stretchiness="1"/>
+        <HBoxView topInset="4" rightInset="5" bottomInset="5" leftInset="7">
+            <View stretchiness="1" topInset="0">
+                
+                <TextView headingLevel="2" maxLines="1" leftInset="0" topInset="0" textJust="left" stretchiness="1" truncation="right" styleSet="basic11" rightInset="0">
+                    <SetFontStyle normalStyle="outlineTitleFontStyle">
+                        <b>
+                            
+                            
+                                
+                                    LINKS
+                                
+                                
+                            
+                        </b>
+                    </SetFontStyle>
+                </TextView>
+            </View>
+            
+        </HBoxView>
+        <View stretchiness="1"/>
+    </VBoxView>
+    
+      <HBoxView rightInset="4">
+        
+    	    
+	    
+        
+      </HBoxView>    
+    
+
+
+
+    
+
+
+  
+  </View>
+
+</View>
+
+
+
+
+
+    
+    <View bottomInset="0" topInset="0" stretchiness="1">
+        
+        
+                
+<VBoxView>
+    <VBoxView rightInset="0" leftInset="0" topInset="6" bottomInset="4">
+      
+        
+            <View topInset="0">
+                                
+                
+                
+                        <VBoxView height="17">
+                            <View stretchiness="1"></View>
+                            <HBoxView leftInset="0" rightInset="8">
+                                
+    <OpenURL inhibitDragging="false" draggingName="Homepage" url="http://www.abcol.ac.uk/ ">
+
+        
+            
+            
+                <TextView styleSet="basic11" leftInset="11" squishiness="1" maxLines="1" truncation="right" bottomInset="3">
+                    <SetFontStyle normalStyle="outlineTextFontStyle"><Color color="000000"><b>Homepage</b></Color></SetFontStyle>
+                </TextView>
+                
+            
+        
+        
+    
+</OpenURL>
+
+
+                                <View stretchiness="1"></View>
+                                    
+                            </HBoxView>
+                            <View bottomInset="1" stretchiness="1"></View>
+                        </VBoxView>
+                
+                
+                
+                
+                
+            </View>
+        
+            <View topInset="1">
+                                
+                
+                
+                        <VBoxView height="17">
+                            <View stretchiness="1"></View>
+                            <HBoxView leftInset="0" rightInset="8">
+                                
+    <OpenURL inhibitDragging="false" draggingName="Get in Touch" url="http://www.abcol.ac.uk/contact/">
+
+        
+            
+            
+                <TextView styleSet="basic11" leftInset="11" squishiness="1" maxLines="1" truncation="right" bottomInset="3">
+                    <SetFontStyle normalStyle="outlineTextFontStyle"><Color color="000000"><b>Get in Touch</b></Color></SetFontStyle>
+                </TextView>
+                
+            
+        
+        
+    
+</OpenURL>
+
+
+                                <View stretchiness="1"></View>
+                                    
+                            </HBoxView>
+                            <View bottomInset="1" stretchiness="1"></View>
+                        </VBoxView>
+                
+                
+                
+                
+                
+            </View>
+        
+            <View topInset="1">
+                                
+                
+                
+                        <VBoxView height="17">
+                            <View stretchiness="1"></View>
+                            <HBoxView leftInset="0" rightInset="8">
+                                
+    <OpenURL inhibitDragging="false" draggingName="Image Galleries" url="http://www.abcol.ac.uk/news-events/galleries/">
+
+        
+            
+            
+                <TextView styleSet="basic11" leftInset="11" squishiness="1" maxLines="1" truncation="right" bottomInset="3">
+                    <SetFontStyle normalStyle="outlineTextFontStyle"><Color color="000000"><b>Image Galleries</b></Color></SetFontStyle>
+                </TextView>
+                
+            
+        
+        
+    
+</OpenURL>
+
+
+                                <View stretchiness="1"></View>
+                                    
+                            </HBoxView>
+                            <View bottomInset="1" stretchiness="1"></View>
+                        </VBoxView>
+                
+                
+                
+                
+                
+            </View>
+        
+            <View topInset="1">
+                                
+                
+                
+                        <VBoxView height="17">
+                            <View stretchiness="1"></View>
+                            <HBoxView leftInset="0" rightInset="8">
+                                
+    <OpenURL inhibitDragging="false" draggingName="Uni-link" url="http://www.uni-link.org/home/index.cfm">
+
+        
+            
+            
+                <TextView styleSet="basic11" leftInset="11" squishiness="1" maxLines="1" truncation="right" bottomInset="3">
+                    <SetFontStyle normalStyle="outlineTextFontStyle"><Color color="000000"><b>Uni-link</b></Color></SetFontStyle>
+                </TextView>
+                
+            
+        
+        
+    
+</OpenURL>
+
+
+                                <View stretchiness="1"></View>
+                                    
+                            </HBoxView>
+                            <View bottomInset="1" stretchiness="1"></View>
+                        </VBoxView>
+                
+                
+                
+                
+                
+            </View>
+        
+            <View topInset="1">
+                                
+                
+                
+                        <VBoxView height="17">
+                            <View stretchiness="1"></View>
+                            <HBoxView leftInset="0" rightInset="8">
+                                
+    <OpenURL inhibitDragging="false" draggingName="StudentNet" url="http://studentnet.abcolstudents.ac.uk">
+
+        
+            
+            
+                <TextView styleSet="basic11" leftInset="11" squishiness="1" maxLines="1" truncation="right" bottomInset="3">
+                    <SetFontStyle normalStyle="outlineTextFontStyle"><Color color="000000"><b>StudentNet</b></Color></SetFontStyle>
+                </TextView>
+                
+            
+        
+        
+    
+</OpenURL>
+
+
+                                <View stretchiness="1"></View>
+                                    
+                            </HBoxView>
+                            <View bottomInset="1" stretchiness="1"></View>
+                        </VBoxView>
+                
+                
+                
+                
+                
+            </View>
+        
+            <View topInset="1">
+                                
+                
+                
+                        <VBoxView height="17">
+                            <View stretchiness="1"></View>
+                            <HBoxView leftInset="0" rightInset="8">
+                                
+    <OpenURL inhibitDragging="false" draggingName="Photography Students Flickr Site" url="http://www.flickr.com/photos/abcolphotozone/">
+
+        
+            
+            
+                <TextView styleSet="basic11" leftInset="11" squishiness="1" maxLines="1" truncation="right" bottomInset="3">
+                    <SetFontStyle normalStyle="outlineTextFontStyle"><Color color="000000"><b>Photography Students Flickr Site</b></Color></SetFontStyle>
+                </TextView>
+                
+            
+        
+        
+    
+</OpenURL>
+
+
+                                <View stretchiness="1"></View>
+                                    
+                            </HBoxView>
+                            <View bottomInset="1" stretchiness="1"></View>
+                        </VBoxView>
+                
+                
+                
+                
+                
+            </View>
+        
+      
+      
+    </VBoxView>
+</VBoxView>
+
+
+
+            
+    </View>
+</VBoxView>
+
+
+            
+                <View height="12"></View>
+            
+    </VBoxView>
+    
+
+
+                            
+                            
+                            
+                            
+                                
+
+  <View />
+
+                            
+                            
+                        
+        </VBoxView>
+    </View>
+
+
+
+
+                    
+                </VBoxView>
+                
+            </MatrixView>
+            
+        </ScrollView>
+
+        
+        <Test rightInset="0" comparison="ge" avoid-hscrollbar="1" avoid-vscrollbar="1" value="7.1" bottomInset="0" property="iTunes version" leftInset="0">
+            <HBoxView rightInset="0" bottomInset="0" leftInset="0" minHeight="37">
+                <ScrollView hit-test="ignore" rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1" horzScroll="as needed" vertScroll="as needed">
+                    
+                        <VBoxView bottomInset="0" leftInset="0" rightInset="0">
+                            <HBoxView rightInset="0" bottomInset="0" leftInset="0">
+                                
+                                <HBoxView>
+                                    
+                                    <View stretchiness="1" />
+                                </HBoxView>
+                                
+                                
+                                    
+                                        
+                                        <GotoURL inhibitDragging="false" draggingName="Tab 1 of 1, Selected. Audio" url="http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545">
+
+                                            <View rightInset="0" bottomInset="0" minWidth="70" transparentClicks="true">
+                                                
+                                                    <PictureView rightInset="6" bottomInset="0" leftInset="7" topInset="0" alt="" height="18" horizontalBehavior="tile" url="http://deimos3.apple.com/rsrc/Images/tab/tab_selected.png"></PictureView>
+                                                    <PictureView leftInset="0" bottomInset="0" width="7" topInset="0" alt="" height="18" url="http://deimos3.apple.com/rsrc/Images/tab/tab_selected_left.png"></PictureView>
+                                                    <PictureView rightInset="0" bottomInset="0" width="6" topInset="0" alt="" height="18" url="http://deimos3.apple.com/rsrc/Images/tab/tab_selected_right.png"></PictureView>
+                                                    <VBoxView alt="">
+                                                        <View flex="1" alt=""/>
+                                                            <HBoxView topInset="0" leftInset="10" rightInset="10" alt="">
+                                                                <View flex="1" alt=""/>
+                                                                
+                                                                    <View topInset="2" alt="">
+                                                                        <TextView leftInset="0" topInset="0" textJust="center" normalStyle="lucida11" maxLines="1" alt=""><Color color="ffffff"><B>Audio</B></Color></TextView>
+                                                                    </View>
+                                                                
+                                                                
+                                                                    
+                                                                    
+                                                                
+                                                                <View flex="1" alt=""/>
+                                                            </HBoxView>
+                                                        <View flex="1" alt=""/>
+                                                    </VBoxView>
+                                                
+                                                
+                                            </View>
+                                            
+                                        
+</GotoURL>
+
+                                    
+                                
+                                <HBoxView>
+                                    <PictureView leftInset="0" bottomInset="0" width="1" height="18" alt="" url="http://deimos3.apple.com/rsrc/Images/tab/tab_rightcap.png"></PictureView>
+                                    <View stretchiness="1" />
+                                </HBoxView>
+                            </HBoxView>
+                        </VBoxView>
+                    
+                </ScrollView>
+            </HBoxView>
+        </Test>
+        <Test comparison="lt" value="7.1" property="iTunes version">
+            <ScrollView transparentClicks="true" bottomInset="0" horzScroll="as needed" vertScroll="as needed" minHeight="37">
+                
+                    <HBoxView bottomInset="0" leftInset="0" rightInset="0" avoid-hscrollbar="1">
+                        
+                        <HBoxView>
+                            
+                            <View stretchiness="1" />
+                        </HBoxView>
+                        
+                        
+                            
+                                <View rightInset="0" bottomInset="0" minWidth="70" transparentClicks="true">
+                                    
+                                    <GotoURL inhibitDragging="false" draggingName="Tab 1 of 1, Selected. Audio" url="http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545">
+
+                                        
+                                            <PictureView rightInset="6" bottomInset="0" leftInset="7" topInset="0" alt="" height="18" horizontalBehavior="tile" url="http://deimos3.apple.com/rsrc/Images/tab/tab_selected.png">
+                                                <MatrixView columnFormat="10,100%,10" alt="">
+                                                    <View alt=""/>
+                                                    
+                                                        <View alt="" topInset="2">
+                                                            <TextView leftInset="0" topInset="0" textJust="center" normalStyle="lucida11" maxLines="1" alt=""><Color color="ffffff"><B>Audio</B></Color></TextView>
+                                                        </View>
+                                                    
+                                                    
+                                                        
+                                                        <View alt="" topInset="2">
+                                                            
+                                                        </View>
+                                                    
+                                                </MatrixView>
+                                            </PictureView>
+                                            <PictureView leftInset="0" bottomInset="0" width="7" topInset="0" alt="" height="18" url="http://deimos3.apple.com/rsrc/Images/tab/tab_selected_left.png"></PictureView>
+                                            <PictureView rightInset="0" bottomInset="0" width="6" topInset="0" alt="" height="18" url="http://deimos3.apple.com/rsrc/Images/tab/tab_selected_right.png"></PictureView>
+                                        
+                                        
+                                    
+</GotoURL>
+
+                                    
+                                </View>
+                            
+                        
+                        <HBoxView>
+                            <PictureView leftInset="0" bottomInset="0" width="1" height="18" alt="" url="http://deimos3.apple.com/rsrc/Images/tab/tab_rightcap.png"></PictureView>
+                            <View alt="" stretchiness="1" />
+                        </HBoxView>
+                    </HBoxView>
+                
+            </ScrollView>
+        </Test>
+    </View>
+    
+    
+    
+</VBoxView>
+
+<TrackList>
+    <plist version="1.0">
+        <dict>
+            <key>listType</key><string>publishedPlaylist</string>
+            <key>items</key>
+            <array>
+                
+                              <dict>
+            <key>rank</key><integer>1</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>The Craig Souter Band - Another Reason for Heartache</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>1</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>The Craig Souter Band</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-12-03T12:07:10Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920662</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920662.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920662?i=1853616164</string>
+            <key>itemId</key><integer>1853616164</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>The Craig Souter Band comprise of four HND Music students.  They have been stirring up the Aberdeen music scene with their unique and original style of pop/rock. Four musicians with a passion for performing have come together to write and perform songs that are so catchy they will leave you hooked.</string>
+            <key>longDescription</key><string>The Craig Souter Band comprise of four HND Music students.  They have been stirring up the Aberdeen music scene with their unique and original style of pop/rock. Four musicians with a passion for performing have come together to write and perform songs that are so catchy they will leave you hooked.</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>2</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>The Craig Souter Band - Stop Sign (Going Nowhere)</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>2</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>The Craig Souter Band</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-12-03T12:07:10Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920664</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920664.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920664?i=1237232788</string>
+            <key>itemId</key><integer>1237232788</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>The Craig Souter Band comprise of four HND Music students.  They have been stirring up the Aberdeen music scene with their unique and original style of pop/rock. Four musicians with a passion for performing have come together to write and perform songs that are so catchy they will leave you hooked.</string>
+            <key>longDescription</key><string>The Craig Souter Band comprise of four HND Music students.  They have been stirring up the Aberdeen music scene with their unique and original style of pop/rock. Four musicians with a passion for performing have come together to write and perform songs that are so catchy they will leave you hooked.</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>3</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Magnum Carta - 'Love the Times' from the album 'We the People'</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>3</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Magnum Carta</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920666</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920666.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920666?i=1826896438</string>
+            <key>itemId</key><integer>1826896438</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Magnum Carta comprises of two HND Music students from Aberdeen College -
+Ian Murray and Steven Thomson.  As part of their course they have
+studied instrumental performance, music production and composition- all
+of these skills are showcased in their debut album 'We The People.  For
+more information, pictures, and songs, go to
+www.myspace.com/magnumcarta.</string>
+            <key>longDescription</key><string>Magnum Carta comprises of two HND Music students from Aberdeen College -
+Ian Murray and Steven Thomson.  As part of their course they have
+studied instrumental performance, music production and composition- all
+of these skills are showcased in their debut album 'We The People.  For
+more information, pictures, and songs, go to
+www.myspace.com/magnumcarta.</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>4</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Magnum Carta - 'Six Tricks' from the album 'We the People'</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>4</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Magnum Carta</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920668</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920668.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920668?i=2139151589</string>
+            <key>itemId</key><integer>2139151589</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Magnum Carta comprises of two HND Music students from Aberdeen College -
+Ian Murray and Steven Thomson.  As part of their course they have
+studied instrumental performance, music production and composition- all
+of these skills are showcased in their debut album 'We The People.  For
+more information, pics, and songs, go to
+www.myspace.com/magnumcarta.</string>
+            <key>longDescription</key><string>Magnum Carta comprises of two HND Music students from Aberdeen College -
+Ian Murray and Steven Thomson.  As part of their course they have
+studied instrumental performance, music production and composition- all
+of these skills are showcased in their debut album 'We The People.  For
+more information, pics, and songs, go to
+www.myspace.com/magnumcarta.</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>5</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Magnum Carta - 'We the People' from the album 'We the People'</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>5</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Magnum Carta</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920670</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920670.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920670?i=1749605138</string>
+            <key>itemId</key><integer>1749605138</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Magnum Carta comprises of two HND Music students from Aberdeen College -
+Ian Murray and Steven Thomson.  As part of their course they have
+studied instrumental performance, music production and composition- all
+of these skills are showcased in their debut album 'We The People.  For
+more information, pictures, and songs, go to
+www.myspace.com/magnumcarta.</string>
+            <key>longDescription</key><string>Magnum Carta comprises of two HND Music students from Aberdeen College -
+Ian Murray and Steven Thomson.  As part of their course they have
+studied instrumental performance, music production and composition- all
+of these skills are showcased in their debut album 'We The People.  For
+more information, pictures, and songs, go to
+www.myspace.com/magnumcarta.</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>6</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Kerr Thomson - Fluxus</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>6</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Kerr Thomson</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920672</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920672.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920672?i=1532428888</string>
+            <key>itemId</key><integer>1532428888</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Kerr Thomson - Fluxus</string>
+            <key>longDescription</key><string>Kerr Thomson - Fluxus</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>7</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Kerr Thomson - Movimentum</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>7</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Kerr Thomson</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920674</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920674.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920674?i=1417574212</string>
+            <key>itemId</key><integer>1417574212</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Kerr Thomson - Movimentum</string>
+            <key>longDescription</key><string>Kerr Thomson - Movimentum</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>8</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Scott Ross - Departure</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>8</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Scott Ross</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920676</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920676.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920676?i=1300507501</string>
+            <key>itemId</key><integer>1300507501</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Scott Ross - Departure</string>
+            <key>longDescription</key><string>Scott Ross - Departure</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>9</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Scott Ross - Face</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>9</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Scott Ross</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920678</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920678.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920678?i=1695566691</string>
+            <key>itemId</key><integer>1695566691</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Scott Ross - Face</string>
+            <key>longDescription</key><string>Scott Ross - Face</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>10</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Scott Ross - Lethal</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>10</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Scott Ross</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920680</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920680.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920680?i=1093201341</string>
+            <key>itemId</key><integer>1093201341</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Scott Ross - Lethal</string>
+            <key>longDescription</key><string>Scott Ross - Lethal</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>11</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Simon Innes - J. Byrne</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>11</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Simon Innes</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920682</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920682.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920682?i=1791559858</string>
+            <key>itemId</key><integer>1791559858</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Simon Innes - J. Byrne</string>
+            <key>longDescription</key><string>Simon Innes - J. Byrne</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>12</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Simon Innes - Machines make the world go round</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>12</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Simon Innes</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920684</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920684.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920684?i=1143167355</string>
+            <key>itemId</key><integer>1143167355</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Simon Innnes - Machines make the world go round</string>
+            <key>longDescription</key><string>Simon Innnes - Machines make the world go round</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>13</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Simon Innes - Still on the scene</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>0</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>0</integer>
+            <key>trackNumber</key><integer>13</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Simon Innes</string>
+            
+            
+            <key>releaseDate</key><string>2009-06-29T16:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.2742920686</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.2742920686.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.2742920686?i=1164734690</string>
+            <key>itemId</key><integer>1164734690</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Simon Innes - Still on the scene</string>
+            <key>longDescription</key><string>Simon Innes - Still on the scene</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>14</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Seasons Down - Pretending to dance</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>170000</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>170</integer>
+            <key>trackNumber</key><integer>14</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Seasons Down</string>
+            
+            
+            <key>releaseDate</key><string>2010-04-21T12:10:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.3990835930</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.3990835930.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.3990835930?i=1972376202</string>
+            <key>itemId</key><integer>1972376202</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Seasons Down - Pretending to dance - Recorded live in room 20 at the Gordon Centre</string>
+            <key>longDescription</key><string>Seasons Down - Pretending to dance - Recorded live in room 20 at the Gordon Centre</string>
+            
+          </dict>
+
+                
+                              <dict>
+            <key>rank</key><integer>15</integer>
+            <key>kind</key><string>unknown</string>
+            <key>songName</key><string>Seasons Down - Time is your remedy</string>
+            <key>fileExtension</key><string>mp3</string>
+            <key>duration</key><integer>224000</integer>
+            <key>explicit</key><integer>2</integer>
+            <key>previewLength</key><integer>224</integer>
+            <key>trackNumber</key><integer>15</integer>
+            <key>discNumber</key><integer>1</integer>
+            <key>playlistName</key><string>Aberdeen College Podcast</string>
+            <key>artistName</key><string>Seasons Down</string>
+            
+            
+            <key>releaseDate</key><string>2010-04-21T12:11:27Z</string>
+            <key>dateModified</key><date>2010-06-25T09:03:56Z</date>
+            <key>price</key><integer>0</integer>
+            <key>priceDisplay</key><string>Free</string>
+            <key>anonymous</key><true />
+            <key>buyParams</key><string>https://deimos.apple.com/WebObjects/Core.woa/DownloadTrack/abcol.ac.uk.2299445540.02299445545.3990835932</string>
+            <key>previewURL</key><string>http://deimos.apple.com/WebObjects/Core.woa/DownloadRedirectedTrackPreview/abcol.ac.uk.2299445540.02299445545.3990835932.mp3</string>
+            <key>url</key><string>http://deimos3.apple.com/WebObjects/Core.woa/Browse/abcol.ac.uk.2299445540.02299445545.3990835932?i=2070406692</string>
+            <key>itemId</key><integer>2070406692</integer>
+            
+            <key>s</key><integer>1000000</integer>
+            
+            
+            
+            <key>description</key><string>Seasons Down - Time is your remedy - Recorded live in room 20 at the Gordon Centre</string>
+            <key>longDescription</key><string>Seasons Down - Time is your remedy - Recorded live in room 20 at the Gordon Centre</string>
+            
+          </dict>
+
+                
+            </array>
+        </dict>
+    </plist>
+</TrackList>
+
+</Document>
